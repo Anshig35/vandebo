@@ -1,0 +1,21 @@
+.logo {
+    max-width: 80px;
+    display: block;
+    margin: auto;
+}
+
+
+.navigation {
+    text-align: center;
+    background-color: rgb(150, 138, 32);
+}
+.header {
+    background-color: rgb(182, 94, 31);
+}
+.navigation a {
+    color:rgb(168, 117, 40);
+    display: inline-block;
+    padding: 10px;
+    
+    text-decoration: none;
+}
